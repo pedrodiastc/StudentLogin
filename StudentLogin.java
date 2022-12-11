@@ -10,7 +10,7 @@ public class AssesementQuestion1And2 {
         
   
         Scanner scanner = new Scanner(System.in);
-        
+        // array 
         ArrayList<StudentId> list = new ArrayList<>();
         String a, b = "N", c = "Y";
 
