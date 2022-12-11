@@ -16,7 +16,7 @@ public class AssesementQuestion1And2 {
 
         do{
             System.out.println(" insert Student ID to be added to the list:");
-            // Get input from user.
+            
             String i = scanner.nextLine();
             System.out.println("");
             System.out.println(" insert Student PIN:");
@@ -39,7 +39,6 @@ public class AssesementQuestion1And2 {
                     System.out.println("Invalid option,  try again!");
                 }
 
-                // verify the value of the variables. 
             }while(!a.equals(b) & !a.equals(c));
 
         }while(a.equals(c));
