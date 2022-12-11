@@ -54,8 +54,8 @@ public class AssesementQuestion1And2 {
         int ind = -1;
         
         do{
-            System.out.println("login:");
-            System.out.println(" insert Student ID");
+            System.out.println("Login:");
+            System.out.println(" Insert Student ID");
             String loginID = scanner.nextLine();
             System.out.println("");
             
